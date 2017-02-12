@@ -1,0 +1,11 @@
+infile dictionary {
+    _column(1)    numeric                               YEAR   %20f  "Gss year for this respondent                       "
+   _column(21)    numeric                                ID_   %20f  "Respondent id number"
+   _column(41)    numeric                               EDUC   %20f  "Highest year of school completed"
+   _column(61)    numeric                           INCOME06   %20f  "Total family income"
+   _column(81)    numeric                              HAPPY   %20f  "General happiness"
+  _column(101)    numeric                             HAPMAR   %20f  "Happiness of marriage"
+  _column(121)    numeric                           HAPCOHAB   %20f  "Happiness of relt with partner"
+  _column(141)    numeric                           JOBMEANS   %20f  "Work important and feel accomplishment"
+  _column(161)    numeric                            DEPRESS   %20f  "Told have depression"
+}
