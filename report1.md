@@ -37,3 +37,6 @@ PMF plots of both high income and low income groups were skewed the left, but th
 The mean and the PMF plot of the distribution of general happiness and marriage happiness values suggests that people with high income, categorized as having an annual income that is in 5th quintile of US annual income, tend to be generally happier and happier in marriage compared to people with low income, with annual income that falls in the 1st quintile of US income. However, the difference in happiness level between the two groups was much more apparent in the general happiness value than in the marriage happiness value. However, it is worth noting this observation does not provide any substantial evidence of the causality between happiness and income.
 
 Additionally, the data suggest that the people with high income tend to value the feeling of accomplishment and importance of the work in their workplace more than people with low income do.
+
+### Jupyter Notebook
+Jupyter notebook with my analysis can be found [here](https://github.com/SungwooPark/ThinkStats2/blob/master/code/report1.ipynb).
